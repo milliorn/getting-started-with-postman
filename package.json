@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "systeminformation": "^5.17.8",
     "ws": "^8.12.0"
   }
 }
